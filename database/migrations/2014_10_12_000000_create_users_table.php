@@ -24,7 +24,7 @@ class CreateUsersTable extends Migration
             $table->timestamps();
         });
     }
-
+/*Comentario para una prueba git*/
     /**
      * Reverse the migrations.
      *
