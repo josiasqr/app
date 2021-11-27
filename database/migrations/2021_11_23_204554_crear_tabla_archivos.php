@@ -23,7 +23,7 @@ class CrearTablaArchivos extends Migration
 	  $table->boolean('local')->default(1);	  
           $table->timestamps();
         });
-    }
+  }
 
     /**
      * Reverse the migrations.
