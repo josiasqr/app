@@ -7,7 +7,7 @@ use App\Models\Usuario;
 use Illuminate\Support\Str;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Hash;
-
+// sdsdsd
 class instalador extends Command
 {
     /**
