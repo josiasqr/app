@@ -7,7 +7,7 @@ use App\Models\Usuario;
 use Illuminate\Support\Str;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Hash;
-// ,Hola esto es una prueba de git 
+
 class instalador extends Command
 {
     /**
