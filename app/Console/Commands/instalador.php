@@ -59,7 +59,7 @@ class instalador extends Command
       $rol = "Super Administrador";
       return Rol::create([
 	'nombre' => $rol,
-	'slug' => Str::slug($rol, '_')
+	'slug' => Str::slug($rol, '-')
       ]);    
     }
 
